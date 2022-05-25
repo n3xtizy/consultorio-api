@@ -1,4 +1,4 @@
-package controller;
+package br.com.uniamerica.api.controller;
 
 import br.com.uniamerica.api.entity.Especialidade;
 import org.springframework.beans.factory.annotation.Autowired;
